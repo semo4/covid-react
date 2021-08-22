@@ -1,0 +1,6 @@
+{
+    "usersApi": "http://127.0.0.1:8000/users/",
+    "addressesApi": "http://127.0.0.1:8000/addresses/",
+    "loginApi": "http://127.0.0.1:8000/login/"
+
+}

@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-link{
+  text-decoration: none;
+  color: white;
+}
+
+.current{
+  background: #e63946;
+}
+.not-current{
+  background: #c0adaf;
+}
